@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohand</h1>
+<h1 align="center">Hi 👋🏻, I'm Mohand</h1>
 <h3 align="center">A microelectronics student with a passion for embedded systems and a strong interest in web development and data science.</h3>
 
 - 🔭 I’m currently working on **A Smart White Cane**
