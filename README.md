@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mohand.sadali@outlook.com**
 
-- 📄 Know about my experiences [Notion](https://www.notion.so/Mohand-SADALI-d85b5b7833094fea92aee043abbd014d?pvs=4)
+- 📄 Know about my experiences on [Notion](https://www.notion.so/Mohand-SADALI-d85b5b7833094fea92aee043abbd014d?pvs=4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
